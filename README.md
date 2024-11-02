@@ -14,7 +14,7 @@
   <img src="https://media2.giphy.com/media/ZGHpWzdOEkMKtwLqdc/giphy.gif" height="40px" alt="Animated Emoji">
 </h2>
 
-<img align="right" alt="coding" width="400" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/coding-freak.gif" >
+<img align="right" alt="coding" width="400" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/coding-freak.gif" style="margin-bottom: 20px;">
 
 - 🔭 I’m currently Studying Computer Science and Technology  
 - 🌱 I’m currently learning full-stack development  
